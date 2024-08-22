@@ -1,0 +1,24 @@
+.bg-container{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.logo-img-container{
+    width: 55%;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-details-container{
+    width: 45%;
+    background-color: #3c427c;
+    /* background-color: #4846bc; */
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
